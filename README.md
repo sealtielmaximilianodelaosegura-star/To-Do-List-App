@@ -46,12 +46,54 @@ It can be adapted for:
 - Learning basic SPA behavior
 
 ---
+🚀 How to Use
+Online
 
-## 📸 Preview
+Open the live demo link.
 
-You can view the live version here:  
-👉 https://sealtielmaximilianodelaosegura-star.github.io/To-Do-List-App/
+Add tasks by clicking “+ New Task”.
 
-*(Include screenshots below for quick visual overview)*  
-```md
-![To-Do List App Preview](./preview.png)
+Click on status to cycle through task states.
+
+Edit fields inline if needed.
+
+Tasks are stored automatically.
+
+Run Locally
+
+To open the project on your computer:
+
+git clone https://github.com/SealtielMaximilianoDeLaOseGura-star/To-Do-List-App.git
+cd To-Do-List-App
+open index.html
+
+📂 Project Structure
+To-Do-List-App/
+│
+├── index.html
+├── styles.css
+├── app.js
+└── README.md
+
+📈 Future Improvements
+
+Ideas you can add later to enhance professionalism:
+
+⚡ Drag & drop task ordering
+
+📅 Deadlines and reminders
+
+🔍 Search tasks
+
+🔖 Tags and categories
+
+🌓 Manual dark mode switch
+
+👥 Sync with backend (future step)
+
+👤 Author
+
+Sealtiel Maximiliano De La O Segura
+Front-End Developer
+
+GitHub: https://github.com/SealtielMaximilianoDeLaOseGura-star
