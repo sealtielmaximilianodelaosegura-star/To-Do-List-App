@@ -61,12 +61,6 @@ Tasks are stored automatically.
 
 Run Locally
 
-To open the project on your computer:
-
-git clone https://github.com/SealtielMaximilianoDeLaOseGura-star/To-Do-List-App.git
-cd To-Do-List-App
-open index.html
-
 ---
 
 ## 📈 Future Improvements
