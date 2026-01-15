@@ -70,7 +70,7 @@ open index.html
 
 ---
 
-📈 Future Improvements
+##📈 Future Improvements
 
 Ideas you can add later to enhance professionalism:
 
@@ -88,7 +88,7 @@ Ideas you can add later to enhance professionalism:
 
 ---
 
-👤 Author
+##👤 Author
 
 Sealtiel Maximiliano De La O Segura
 Front-End Developer
