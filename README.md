@@ -47,7 +47,7 @@ It can be adapted for:
 
 ---
 
-🚀 How to Use
+## 🚀 How to Use
 Online
 
 Open the live demo link.
