@@ -46,6 +46,7 @@ It can be adapted for:
 - Learning basic SPA behavior
 
 ---
+
 🚀 How to Use
 Online
 
@@ -67,13 +68,7 @@ git clone https://github.com/SealtielMaximilianoDeLaOseGura-star/To-Do-List-App.
 cd To-Do-List-App
 open index.html
 
-📂 Project Structure
-To-Do-List-App/
-│
-├── index.html
-├── styles.css
-├── app.js
-└── README.md
+---
 
 📈 Future Improvements
 
@@ -90,6 +85,8 @@ Ideas you can add later to enhance professionalism:
 🌓 Manual dark mode switch
 
 👥 Sync with backend (future step)
+
+---
 
 👤 Author
 
